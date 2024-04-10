@@ -1,0 +1,40 @@
+body {
+    min-height: 100vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+}
+
+.left-side {
+    background-color: #e7fbf7;
+    width: 800px;
+    height: 1100px;
+    margin: 0 auto;
+}
+
+.left-side2 {
+    background-color: rgb(232, 174, 231);
+    width: 30%;
+    height: 100%;
+    margin-right: 70px;
+    float: left;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 35px 0;
+}
+
+.right {
+    height: 100%;
+    padding: 25px;
+    text-align: center;
+}
+
+.left-side2 div {
+    margin: 20px 20px;
+}
+
+.right div {
+    margin: 20px 20px;
+}
